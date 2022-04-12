@@ -11,7 +11,7 @@ spring:
   #    path: /user/**
    #   url: https://baidu.com/
     #   url: https://baidu.com/
-    #   url: https://baidu.com/
+  url: https://baidu.com/
 
 zuul:
   routes:
